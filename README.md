@@ -21,6 +21,6 @@ With a objective-oriented mindset, I approach every project with a focus on deli
 
 Feel free to explore my GitHub repositories to see some of my past projects and contributions. If you have any questions or would like to collaborate on a project, don't hesitate to reach out. Let's build something amazing together!
 
-📫 You can reach me at renato.corbellini.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/renato-corbellini-software-developer/?locale=en_US).
+📫 You can reach me at renato.corbellini.dev@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/renato-corbellini-fullstack-developer).
 
 Looking forward to connecting with fellow developers and contributing to exciting projects!
